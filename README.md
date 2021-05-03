@@ -1,7 +1,9 @@
-# 👋 Hi, I’m Ujjawal Rajwanshi
+<h1 style="color:blue;">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max_width:100%"/> I’m Ujjawal Rajwanshi</h1>
+<h1 style="color:blue;">This is a heading</h1>
 - 👋 I am Final Year B.Tech Student of Computer Science and Engineering
 - 👀 I’m interested in various fields like Data Science, Machine Learning and Artificial Intellegence
 - 🌱 I’m currently learning basics of Machine Learning
+- 📫 How to reach me: [ujjawalrajwanshi](ujjawalrajwanshi@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
