@@ -1,8 +1,9 @@
 <h1 style="color:blue;">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max_width:100%"/> I’m Ujjawal Rajwanshi</h1>
-<h1 style="color:blue;">This is a heading</h1>
+
 - 👋 I am Final Year B.Tech Student of Computer Science and Engineering
 - 👀 I’m interested in various fields like Data Science, Machine Learning and Artificial Intellegence
-- 🌱 I’m currently learning basics of Machine Learning
+- 📕 I’m currently learning basics of Machine Learning and developing small projects on Machine Learning concepts to get the practical expereince of Machine Learning 
+- 😀 I'm good in Data Structures and Algorithms , i am currently a 3 ⭐ on Codechef , 5 ⭐ on Hackerrank Problem Solving, and I have solved 100+ questions on Leetcode as well
 - 📫 How to reach me: [ujjawalrajwanshi](ujjawalrajwanshi@gmail.com)
 
 
@@ -14,6 +15,10 @@
 </p>
 
 ### Skills
+<p>
+In my 4 years of B.Tech i have work on various programming languages and got my interest in field of Machine Learning and tried to learn various frameworks as well those languages and frameworks are ,  
+</p>
+<br>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
