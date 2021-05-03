@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ujjawal-rajwanshi-872158173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjawal-rajwanshi-872158173" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ujjawal-rajwanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjawal-rajwanshi-872158173" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ujju123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ujju123" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ujjawal_rajwanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="ujjawal_rajwanshi" height="30" width="40" /></a>
 </p>
