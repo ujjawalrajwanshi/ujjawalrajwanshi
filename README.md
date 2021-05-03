@@ -2,5 +2,4 @@
 - I am Final Year B.Tech Student of Computer Science and Engineering
 - 👀 I’m interested in various fields like Data Science, Machine Learning and Artificial Intellegence
 - 🌱 I’m currently learning basics of Machine Learning
-- <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
-- <img src ="https://github-readme-stats.vercel.app/api?username=ujjawalrajwanshi"></img></span>
+
