@@ -1,16 +1,24 @@
 <h1 align=center>Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max_width:100%"/> I’m Ujjawal Rajwanshi</h1>
+<br>
+<h3 align="center"> Machine Learning/ Artifical Intellegence Enthusiast | Competitive Coder | Problem Solver </h3><br>
 
-<h3 align="center"> Machine Learning/ Artifical Intellegence Enthusiast | Competitive Coder | Problem Solver </h3>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ujjawalrajwanshi&color=red&style=flat-square"/>
 </p>
+<br>
 
-- 👋 I am Final Year B.Tech Student of Computer Science and Engineering
-- 👀 I’m interested in various fields like Data Science, Machine Learning and Artificial Intellegence
-- 📕 I’m currently learning basics of Machine Learning and developing small projects on Machine Learning concepts to get the practical expereince of Machine Learning 
-- 😀 I'm good in Data Structures and Algorithms , i am currently a 3 ⭐ on Codechef , 5 ⭐ on Hackerrank Problem Solving, and I have solved 100+ questions on Leetcode as well
-- 📫 How to reach me: [ujjawalrajwanshi](ujjawalrajwanshi@gmail.com)
+- 👋 I am Final Year B.Tech Student of Computer Science and Engineering<br>
+
+- 👀 I’m interested in various fields like Data Science, Machine Learning and Artificial Intellegence<br>
+
+- 📕 I’m currently learning basics of Machine Learning and developing small projects on Machine Learning concepts to get the practical expereince of Machine Learning <br>
+
+- 😀 I'm good in Data Structures and Algorithms , i am currently a 3 ⭐ on Codechef , 5 ⭐ on Hackerrank Problem Solving, and I have solved 100+ questions on Leetcode as well<br>
+
+- 📫 How to reach me: [ujjawalrajwanshi](ujjawalrajwanshi@gmail.com)<br>
+
 - 💬 Ask me About <b>Data Structures and Algorithms , Problem Solving, Computer Science Fundamentals,Machine Learning Algorithms<b>
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
