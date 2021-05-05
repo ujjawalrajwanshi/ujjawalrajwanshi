@@ -4,6 +4,7 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ujjawalrajwanshi&color=red&style=flat-square"/>
 </p>
+
 - 👋 I am Final Year B.Tech Student of Computer Science and Engineering
 - 👀 I’m interested in various fields like Data Science, Machine Learning and Artificial Intellegence
 - 📕 I’m currently learning basics of Machine Learning and developing small projects on Machine Learning concepts to get the practical expereince of Machine Learning 
