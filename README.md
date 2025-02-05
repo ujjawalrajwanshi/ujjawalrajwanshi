@@ -1,64 +1,46 @@
-<h1 align=center>Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max_width:100%"/> I’m Ujjawal Rajwanshi</h1>
-<br>
-<h3 align="center"> Machine Learning/ Artifical Intellegence Enthusiast | Competitive Coder | Problem Solver </h3><br>
+<h1 align="center">
+  Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"/> I’m Ujjawal Rajwanshi
+</h1>
+<h3 align="center">Java & Spring Boot Developer | 3+ Years at TCS</h3>
 
+
+---
+
+### About Me
+- 👨‍💻 **Software Engineer at TCS** with expertise in building backend services using **Java & Spring Boot**  
+- 🚀 **Skills & Tools**: Java, Spring Boot, MySQL, Docker, Kafka, Git  
+- ⚡ **Strong in**: Data Structures, Algorithms, Problem Solving, and System Design  
+- 🏆 **Achievements**: CodeChef 3★, HackerRank 5★ (Problem Solving), solved 100+ LeetCode problems  
+- 🌱 **Continuous Learner**: Always exploring new technologies and best practices  
+
+### Contact
+- 📫 **Email**: [ujjawalrajwanshi@gmail.com](mailto:ujjawalrajwanshi@gmail.com)  
+- 🤝 **LinkedIn**: [Ujjawal Rajwanshi](https://www.linkedin.com/in/ujjawal-rajwanshi)
+
+---
+
+### Tech Stack
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=ujjawalrajwanshi&color=red&style=flat-square"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
 </p>
-<br>
 
-- 👋 I am Final Year B.Tech Student of Computer Science and Engineering<br>
-
-- 👀 I’m interested in various fields like Data Science, Machine Learning and Artificial Intellegence<br>
-
-- 📕 I’m currently learning basics of Machine Learning and developing small projects on Machine Learning concepts to get the practical expereince of Machine Learning <br>
-
-- 😀 I'm good in Data Structures and Algorithms , i am currently a 3 ⭐ on Codechef , 5 ⭐ on Hackerrank Problem Solving, and I have solved 100+ questions on Leetcode as well<br>
-
-- 📫 How to reach me: [ujjawalrajwanshi](ujjawalrajwanshi@gmail.com)<br>
-
-- 💬 Ask me About <b>Data Structures and Algorithms , Problem Solving, Computer Science Fundamentals,Machine Learning Algorithms<b>
-<br>
-
-
-<h3 align="left">Connect with me:</h3>
+### Familiar With
 <p align="left">
-<a href="https://www.linkedin.com/in/ujjawal-rajwanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjawal-rajwanshi-872158173" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ujju123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ujju123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ujjawal_rajwanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="ujjawal_rajwanshi" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
-### Skills
-<p>
-In my 4 years of B.Tech i have work on various programming languages and got my interest in field of Machine Learning and tried to learn various frameworks as well those languages and frameworks are,  
-</p>
-<br>
+---
+
+### GitHub Stats
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalrajwanshi&layout=compact"/>
 </p>
-
-
-### Also Familiar with
-
-<p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
-
-### My Stats
-
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalrajwanshi">
-  <img src ="https://github-readme-stats.vercel.app/api?username=ujjawalrajwanshi"></img>
-</p>
-
