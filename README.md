@@ -13,9 +13,10 @@
 ---
 
 ### 📫 Contact
-- **Email**: [ujjawalrajwanshi@gmail.com](mailto:ujjawalrajwanshi@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/ujjawal-rajwanshi](https://www.linkedin.com/in/ujjawal-rajwanshi)  
-- **GitHub**: [github.com/ujjawalrajwanshi](https://github.com/ujjawalrajwanshi)  
+
+[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" title="Email">](mailto:ujjawalrajwanshi@gmail.com)  
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn">](https://www.linkedin.com/in/ujjawal-rajwanshi)  
+[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" title="GitHub">](https://github.com/ujjawalrajwanshi)  
 
 ---
 
