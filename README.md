@@ -20,20 +20,43 @@
 
 ### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spark/spark-original.svg" alt="Apache Spark" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;"/>
-</p>
+<ul style="list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 8px;">
+  <li>
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" title="Java" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" title="Spring Boot" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" title="MySQL" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" title="Docker" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" alt="Kafka" title="Kafka" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white" alt="Apache Spark" title="Apache Spark" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" alt="Airflow" title="Airflow" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Snowflake-1F80E0?logo=snowflake&logoColor=white" alt="Snowflake" title="Snowflake" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" title="AWS" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" title="Git" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" title="C++" style="border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </li>
 
 ---
 
