@@ -1,125 +1,72 @@
-<h1 align="center">
-  Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"/> I’m Ujjawal Rajwanshi
-</h1>
-<h3 align="center">Software Engineer @ TCS | Aspiring Data Engineer</h3>
+<h1 align="center">Hi, I'm Ujjawal Rajwanshi</h1>
+<h3 align="center">Backend Developer @ TCS</h3>
+
+<p align="center">
+  <a href="mailto:ujjawalrajwanshi@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/ujjawal-rajwanshi">LinkedIn</a> • 
+  <a href="https://github.com/ujjawalrajwanshi">GitHub</a>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
-- **Software Engineer** at Tata Consultancy Services (TCS) with 3.8 years of experience designing and building scalable microservices using **Java & Spring Boot**.  
-- Transitioning into **Data Engineering**, having built end-to-end pipelines with **Apache Spark**, **Kafka**, **Airflow**, and **Snowflake**.  
-- Strong foundation in **Data Structures**, **Algorithms**, **SQL**, and **Python**, passionate about cloud-native architectures, automation, and delivering analytics-ready solutions.  
 
----
-
-### 📫 Contact
-
-[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" title="Email">](mailto:ujjawalrajwanshi@gmail.com)  
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn">](https://www.linkedin.com/in/ujjawal-rajwanshi)  
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" title="GitHub">](https://github.com/ujjawalrajwanshi)  
+* **Backend Engineer** with **5+ years of experience** at TCS building enterprise microservices using **Java & Spring Boot**.
+* Specializing in **scalable event-driven architectures**, distributed caching, and cloud deployments with **Kafka, Redis, Docker, and Azure**.
+* Enthusiastic about **AI-assisted engineering**, actively leveraging AI tools to accelerate development workflows.
+* Currently building hands-on projects exploring **Spring AI** and **Retrieval-Augmented Generation (RAG)** systems.
 
 ---
 
 ### 🛠 Tech Stack
-<ul style="list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 8px;">
-  <li>
-    <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" title="Java" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" title="Spring Boot" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" title="MySQL" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" title="Docker" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" alt="Kafka" title="Kafka" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white" alt="Apache Spark" title="Apache Spark" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" alt="Airflow" title="Airflow" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Snowflake-1F80E0?logo=snowflake&logoColor=white" alt="Snowflake" title="Snowflake" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" title="AWS" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" title="Git" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" title="C++" style="border-radius:6px; box-shadow:0 2px 4px rgba(0,0,0,0.1);">
-  </li>
-</ul>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+</p>
 
 ---
 
 ### 🔍 Work Experience
 
-**Software Engineer**  
-Tata Consultancy Services (TCS) • Aug 2021 – Present, New Delhi, India  
-- Designed and deployed 20+ fault-tolerant microservices using Java & Spring Boot, improving uptime and modularity.  
-- Engineered high-throughput REST APIs and optimized SQL queries, reducing response times by 40%.  
-- Built React integrations to streamline frontend-backend communication, cutting UI latency by 25%.  
-- Automated CI/CD workflows with Git, Docker, and Jenkins in an Agile environment.  
-- Mentored junior developers, introduced clean-code practices, and boosted sprint velocity by 18%.  
+**Backend Developer — Tata Consultancy Services (TCS)**  
+*5+ Years | New Delhi, India*
+
+* Architected and deployed production-grade microservices using **Java** and **Spring Boot**.
+* Implemented event-driven messaging pipelines using **Apache Kafka** and optimized data access with **Redis** caching.
+* Streamlined containerized deployments using **Docker**, **ArgoCD**, and **Microsoft Azure**.
+* Accelerated workflow velocity by integrating **AI development tools** directly into standard daily engineering tasks.
 
 ---
 
-### 📊 Data Engineering Projects
+### ⚡ AI & Backend Projects
 
-**E-Commerce Sales Analytics Pipeline**  
-- Extracted order data from AWS S3, transformed with Spark, and loaded into Snowflake.  
-- Orchestrated with Airflow; containerized using Docker for reproducible deployments.  
-- **Tech**: Python • Spark • SQL • Airflow • AWS S3 • Snowflake • Docker  
+* **Spring AI RAG System**
+  * Developed an enterprise document-querying engine leveraging **Spring AI** and vector embeddings for contextual Q&A retrieval.
+  * *Tech:* Java, Spring Boot, Spring AI, Vector DB, Azure
 
-**Real-Time User Activity Tracker**  
-- Processed clickstream events via Kafka and Spark Structured Streaming.  
-- Persisted enriched streams in Snowflake for near real-time analytics dashboards.  
-- **Tech**: Python • Kafka • Spark Streaming • Snowflake • AWS EC2 • Docker  
+* **High-Throughput Messaging & Caching Engine**
+  * Built an event stream processing service utilizing **Kafka** and **Redis** for low-latency read operations.
+  * *Tech:* Spring Boot, Apache Kafka, Redis, Docker, ArgoCD
 
 ---
 
 ### 🎓 Education
 
 **B.Tech in Computer Science**  
-G.L. Bajaj Institute of Technology & Management • 2017–2021  
-- **Percentage**: 84.24%  
-- Coursework: Data Structures, Algorithms, OOP, Database Systems  
+G.L. Bajaj Institute of Technology & Management (2017–2021) — **84.24%**
 
 ---
 
 ### 🏆 Achievements
 
-- **Google Kickstart**: Global Rank #2098 (Round H 2019)  
-- **TCS CodeVita**: All-India Rank #2743 (Season 9 2020)  
-- **CodeChef**: Global Rank #1393 (April Long 2021)  
+* **Google Kickstart:** Global Rank #2098 (Round H 2019)
+* **TCS CodeVita:** All-India Rank #2743 (Season 9 2020)
+* **CodeChef:** Global Rank #1393 (April Long 2021)
 
 ---
-
-### 📜 Certifications
-
-- **Machine Learning**  
-  [<img src="https://img.shields.io/badge/View_Certificate-ML-blue?style=flat-square&logo=coursera&logoColor=white" alt="Machine Learning Certificate">](https://www.coursera.org/account/accomplishments/verify/EF9FY7WULVUW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
-
-- **SQL Programming**  
-  [<img src="https://img.shields.io/badge/View_Certificate-SQL-blue?style=flat-square&logo=linkedin&logoColor=white" alt="SQL Programming Certificate">](https://www.linkedin.com/learning/certificates/c5a51653974bcdfb7be99cbfb51ad741da71f0f8a57359116fe4ebe9ff9a813e?trk=share_certificate)  
-
-- **Python Programming**  
-  [<img src="https://img.shields.io/badge/View_Certificate-Python-blue?style=flat-square&logo=coursera&logoColor=white" alt="Python Programming Certificate">](https://www.coursera.org/account/accomplishments/verify/FNNG5MANLG8D?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawalrajwanshi&layout=compact" alt="Top Languages"/>
-</p>
